@@ -49,7 +49,7 @@ fab.addEventListener("click", () => {
         opacity: 0,
         scale: 0.8,
         duration: 0.3,
-        ease: "power1.in",
+        ease: "expo.in",
         pointerEvents: "none",
       });
     });
